@@ -1,0 +1,4 @@
+from .hungarian_tracking_iou import test_hungarian_tracking_iou
+from .hungarian_tracking_ioureid import test_hungarian_tracking_ioureid
+from .distance_metrics import test_distance_metric
+from .hard_mining import test_hard_mining
