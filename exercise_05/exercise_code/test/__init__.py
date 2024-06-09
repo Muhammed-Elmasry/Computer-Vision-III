@@ -1,0 +1,3 @@
+from .k_means import test_k_means
+from .gaussian_mixture_models import test_gaussian_mixture_model
+from .spectral_clustering import test_spectral_clustering
